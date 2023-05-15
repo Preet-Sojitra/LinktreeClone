@@ -1,0 +1,29 @@
+{
+  "name": "Preet Sojitra",
+  "avatar": "https://pbs.twimg.com/profile_images/1519679455697915904/AoI5HMny_400x400.jpg",
+  "links": [
+    {
+      "title": "My Personal Site",
+      "url": "https://preetsojitra.me",
+      "image": "https://pbs.twimg.com/profile_images/1519679455697915904/AoI5HMny_400x400.jpg"
+    },
+    {
+      "title": "Vercel",
+      "url": "https://vercel.com"
+    },
+    {
+      "title": "Next.js",
+      "url": "https://nextjs.org"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/Preet_Sojitra03"
+    },
+    {
+      "title": "Github",
+      "url": "https://github.com/Preet-Sojitra"
+    }
+  ]
+}
